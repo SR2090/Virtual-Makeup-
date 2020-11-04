@@ -13,14 +13,14 @@ To do:
 
 - Apply Eye-Liners or Eye-Lashes (TBD)
 
-- ---Apply Glasses---
+- ~~Apply Glasses~~
 
-- ---Apply Sunglass---
+- ~~Apply Sunglass~~
 
 - Apply Eye Color (Lens Color) (In Progress)
 
 - Apply Hat/Cap (In Progress)
 
-- ---Apply Ear-Rings---
+- ~~Apply Ear-Rings~~
 
 - Change Hair Color( Time )
